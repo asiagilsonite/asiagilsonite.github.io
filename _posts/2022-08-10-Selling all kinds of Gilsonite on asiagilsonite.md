@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The site of Gilsonite bitumen distribution centers<br>
     In order to meet the needs of the infrastructure industries of different countries, this group has started its activities in domestic and foreign markets in the field of natural bitumen. Undoubtedly, in the value chain for any industrial product, the role of raw materials for the production of high-quality products is undeniable; By having suitable and high-quality raw materials, customers and traders will also be more satisfied. This group is proud to offer its products all over the world with full quality control and benefit from a strong international network of agents and distributors, and with excellent transportation and advanced packaging facilities and in accordance with local standards as well as customer satisfaction, all meet the needs of merchants. It is worth noting that during the extraction and production process, all sources are inspected and tested numerous times to check the quality level of the products and ensure the promised high quality.<br>
