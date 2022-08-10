@@ -18,16 +18,16 @@ avatar: https://cdn.exporthub.com/storage/app/images/products/8/6/s_030918121630
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/asiagilsonite
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: asiagilsonite.github.io
+  instagram: https://www.instagram.com/asia.gilsonite/
+  linkedin: https://www.linkedin.com/in/asia-gilsonite-co-997472149/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: http://www.twitter.com/share?url=asiagilsonite
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCSn4EBagX1fbC1XidqG8rmA?view_as=subscriber
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
